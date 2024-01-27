@@ -31,6 +31,8 @@ export const RESUME_DATA = {
   avatarUrl: "https://avatars.githubusercontent.com/u/43524913?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
+    email: "",
+    tel: "",
     social: [
       {
         name: "GitHub",
@@ -51,6 +53,7 @@ export const RESUME_DATA = {
   },
   education: [
     {
+      school: "",
       degree: "Ph.D in Neuroscience",
       start: "2017",
       end: "2020",
